@@ -1,5 +1,5 @@
 # Financial Fraud Detection and Risk Analysis
-eCommerce websites often transact huge amounts of money. And whenever a huge amount of money is moved, there is a high risk of users performing fraudulent activities, e.g. using stolen credit cards, doing money laundry, etc.Machine Learning really excels at identifying fraudulent activities. Any website where you put your credit card information has a risk team in charge of avoiding frauds via machine learning.
+eCommerce websites often transact huge amounts of money. And whenever a huge amount of money is moved, there is a high risk of users performing fraudulent activities, e.g. using stolen credit cards, doing money laundry, etc. Machine Learning really excels at identifying fraudulent activities. Any website where you put your credit card information has a risk team in charge of avoiding frauds via machine learning.
 
 By leveraging advanced machine learning algorithms, we can achieve the following objectives:
 * Minimize costs by enhancing the accuracy of fraud transaction labeling.
